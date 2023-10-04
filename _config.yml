@@ -65,7 +65,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/s-roomi
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
