@@ -48,8 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I'm Sina, a sophomore at UMBC majoring in computer science. My world revolves around coding challenges, exploring the latest tech trends, and turning lines of code into endless possibilities! Currently on a mission to:
-  🌐 Secure an exciting internship to apply and expand my skills in real-world scenarios. 💡 Dive into creating cool projects that not only showcase my abilities but also make a positive impact.
+  Hey, I'm Sina, a sophomore at UMBC majoring in computer science. My world revolves around coding challenges, exploring the latest tech trends, and turning lines of code into endless possibilities! 
+  
+  Currently on a mission to:
+  🌐 Secure an exciting internship to apply and expand my skills in real-world scenarios. 
+  💡 Dive into creating cool projects that not only showcase my abilities but also make a positive impact.
+  
   I am most skilled in: <mark>C++</mark>, <mark>Python</mark>, and <mark>Eating Pizza</mark>
 
 content:
