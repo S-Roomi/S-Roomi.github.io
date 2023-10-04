@@ -68,13 +68,12 @@ content:
         title: Super awesome project
         link: github.com/s-roomi
         # link_text: Project Website
+        description:
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
         additional_links:
           - title:  github_page
             icon: fab fa-github
             url: github.com/S-Roomi?tab=repositories
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
