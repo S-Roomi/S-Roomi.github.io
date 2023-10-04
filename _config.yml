@@ -65,18 +65,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Projects
         link: github.com/s-roomi
         # link_text: Project Website
         additional_links:
           - title:  github_page
             icon: fab fa-github
             url: github.com/S-Roomi?tab=repositories
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          For a comprehensive view of my projects, please feel free to explore the associated GitHub repositories. Click on the GitHub link or icon to access detailed information and delve into the work I've undertaken.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
