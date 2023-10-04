@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Sina Roomi
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: UMBC Sophomore
+email: sroomi2004@gmail.com
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -21,7 +21,7 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: s_roomi
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
