@@ -71,7 +71,7 @@ content:
         additional_links:
           - title:  github_page
             icon: fab fa-github
-            url: github.com/s-roomi
+            url: github.com/S-Roomi?tab=repositories
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
