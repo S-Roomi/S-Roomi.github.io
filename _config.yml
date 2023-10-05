@@ -22,7 +22,7 @@ linkedin_username: sina-roomi-b16289252
 # Additional icon links
 #additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
+  icon: fa-solid fa-file
   url: https://docs.google.com/document/d/19WEYCcTeb9DDMN_qrUIqjkyirpxgOH5F/edit?usp=sharing&ouid=106267943771617935005&rtpof=true&sd=true
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
