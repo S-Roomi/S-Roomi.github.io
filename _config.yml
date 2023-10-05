@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   💡 Dive into creating cool projects that not only showcase my abilities but also make a positive impact.
   
-  I am most skilled in: <mark>C++</mark>, <mark>Python</mark>, and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>C++</mark>, <mark>Python</mark>
 
 content:
   - title: Education # Title for the section
