@@ -112,8 +112,8 @@ content:
       - Lifting
       - [Longboarding](https://www.youtube.com/watch?v=eQw-cPOAZ98)
 
-      Look at this cool image  
-      ![Kittens](images/Kitten.jpg "Cats")
+#      Look at this cool image  
+#      ![Kittens](images/Kitten.jpg "Cats")
 
 # Footer
 footer_show_references: true
