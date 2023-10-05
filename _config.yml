@@ -85,6 +85,21 @@ content:
             icon: fab fa-github
             url: github.com/S-Roomi?tab=repositories
         description: | # this will include new lines to allow paragraphs
+          Some projects include: 
+          Private Server Infrastructure
+            •	Engineered a compact personal server system
+            •	Ensured 24/7 availability
+            •	Proficiently launched and sustained applications on a smaller scale
+            •	Aimed for optimal efficiency
+          Python Command-Line Interface	(Final)
+            •	Developed a Python-based mini terminal application
+            •	Enabled functionality to create, add, and remove directories
+            •	Implemented features for the creation and deletion of files
+          Spotify API Application:
+            •	Implemented a program utilizing the Spotify API
+            •	Facilitated the efficient listing of songs in playlists
+            •	Developed functionality to add and remove songs from playlists
+
           For a comprehensive view of my projects, please feel free to explore the associated GitHub repositories. Click on the GitHub link or icon to access detailed information and delve into the work I've undertaken.
 
   - title: Experience # Title for the section
