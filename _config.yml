@@ -71,7 +71,7 @@ content:
         quote: >
           Founded in 1966, UMBC stands as a prominent higher education institution, recognized for its impact, reputation, and academic excellence, not only in the United States but also on a global scale.
         description: | # this will include new lines to allow paragraphs
-          .
+          In my two years at UMBC, I gained valuable skills from a variety of courses—improving my time management, honing problem-solving abilities, and refining my communication skills. My time at UMBC has been fulfilling, and I'm excited about the ongoing journey of learning and growth ahead.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
