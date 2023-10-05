@@ -31,10 +31,10 @@ linkedin_username: sina-roomi-b16289252
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: Resume
+  icon: fas fa-file
+  url: https://docs.google.com/document/d/19WEYCcTeb9DDMN_qrUIqjkyirpxgOH5F/edit?usp=drive_link&ouid=106267943771617935005&rtpof=true&sd=true
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
