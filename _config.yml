@@ -1,18 +1,14 @@
-# Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
-# Personal info
 name: Sina Roomi
 title: UMBC Sophomore
 email: sroomi2004@gmail.com
 phone: 443-613-0301
 
 
-# Dark Mode (true/false/never)
 darkmode: true
 
 
@@ -28,7 +24,7 @@ additional_links:
 
 
 about_profile_image: images/sinaroomi.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hey. I'm Sina, a sophomore at UMBC majoring in computer science. My world revolves around coding challenges, exploring the latest tech trends, and turning lines of code into endless possibilities! 
   
   Currently on a mission to:
@@ -41,8 +37,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>C++</mark>, <mark>Python</mark>
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list 
     content:
       - layout: left
         title: University of Maryland, Baltimore County
@@ -50,42 +46,36 @@ content:
         sub_title: Computer Science
         quote: >
           Founded in 1966, UMBC stands as a prominent higher education institution, recognized for its impact, reputation, and academic excellence, not only in the United States but also on a global scale.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           In my two years at UMBC, I gained valuable skills from a variety of courses—improving my time management, honing problem-solving abilities, and refining my communication skills. My time at UMBC has been fulfilling, and I'm excited about the ongoing journey of learning and growth ahead.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list 
     content:
       - layout: top-middle
         title: Projects
         link: github.com/s-roomi
-        # link_text: Project Website
         additional_links:
           - title:  github_page
             icon: fab fa-github
             url: github.com/S-Roomi?tab=repositories
-        description: | # this will include new lines to allow paragraphs
+        description: |
           For a comprehensive view of my projects, please feel free to explore the associated GitHub repositories. Click on the GitHub link or icon to access detailed information and delve into the work I've undertaken.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Dulaney Highschool Tech Intern
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        #sub_title: Senior Network System Administrator
         caption: September 2020 - May 2022
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             Throughout my role as a technical intern, I demonstrated proficiency in diagnosing and resolving issues across a spectrum of devices, encompassing laptops, desktops, projectors, printers, and diverse technological assets. In addition to this, I took on the responsibility of re-imaging devices to optimize their performance. Providing adept technical support to students, I ensured efficient resolution of their queries and concerns.
 
             In a proactive capacity, I endeavored to enhance operational efficiency by implementing automation solutions. This encompassed automating routine tasks, such as email communications, and simplifying troubleshooting procedures for common computer issues. 
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Alongside my interest in computer science, some of my other interests and hobbies are:
       - Reading
       - Gaming
@@ -93,11 +83,9 @@ content:
       - Longboarding
 
 
-# Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
-# Build settings
+
 remote_theme: sproogen/resume-theme
 
 sass:
