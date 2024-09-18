@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 version: 2
 
 name: Sina Roomi
-title: UMBC Sophomore
+title: UMBC Junior
 email: sroomi2004@gmail.com
 phone: 443-613-0301
 
@@ -25,7 +25,7 @@ additional_links:
 
 about_profile_image: images/sinaroomi.jpg
 about_content: |
-  Hey. I'm Sina, a sophomore at UMBC majoring in computer science. My world revolves around coding challenges, exploring the latest tech trends, and turning lines of code into endless possibilities! 
+  Hey. I'm Sina, a junior at UMBC majoring in computer science. My world revolves around coding challenges, exploring the latest tech trends, and turning lines of code into endless possibilities! 
   
   Currently on a mission to:
 
@@ -34,7 +34,7 @@ about_content: |
   
     Dive into creating cool projects that not only showcase my abilities but also make a positive impact.
   
-  I am most skilled in: <mark>C++</mark>, <mark>Python</mark>
+  I am most skilled in: <mark>C/C++</mark>, <mark>Python</mark>
 
 content:
   - title: Education
@@ -47,7 +47,7 @@ content:
         quote: >
           Founded in 1966, UMBC stands as a prominent higher education institution, recognized for its impact, reputation, and academic excellence, not only in the United States but also on a global scale.
         description: |
-          In my two years at UMBC, I gained valuable skills from a variety of courses—improving my time management, honing problem-solving abilities, and refining my communication skills. My time at UMBC has been fulfilling, and I'm excited about the ongoing journey of learning and growth ahead.
+          In my three years at UMBC, I gained valuable skills from a variety of courses—improving my time management, honing problem-solving abilities, and refining my communication skills. My time at UMBC has been fulfilling, and I'm excited about the ongoing journey of learning and growth ahead.
 
   - title: Projects
     layout: list 
